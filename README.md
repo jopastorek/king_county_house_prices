@@ -1,7 +1,7 @@
 # King County Housing Price Prediction
 
 
-![](https://www.governmentjobs.com/AgencyPages/kingcounty/agencyImages/download/KCLogo.jpg)
+![](hhttps://content.lib.washington.edu/imls/kcsnapshots/images/kc-map.gif)
 ## Data Cleaning 
 
 ## Feature engineering
